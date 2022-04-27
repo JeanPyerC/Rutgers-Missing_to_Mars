@@ -1,4 +1,4 @@
-# Rutgers-Missing_to_Mars
+# Rutgers - Mission to Mars
 
 ## Deliverable 1: Scrape Full-Resolution Mars Hemishpere Images and Titles
 &nbsp;&nbsp;&nbsp;&nbsp; I was able to write a formula using Jupyter Notebook to extract the information needed. With the following code, I was able to open up Chrome, visit certain websites, and extract certain information. 
